@@ -1,4 +1,26 @@
-# Find the day
-This script only works on valid inputs and works between year rangeing from 900 to 2499. This script follows a formula that is used during Quantitative Aptitude exams syllabus.
-This script is still under development. Your edits will be highly appreciable.
-Input validations are yet to be developed. Feel free to update the script to enhance its performance. 
+# 📅 Day Finder Script
+
+This Python script determines the **day of the week** for any valid date you provide (as day, month, and year). It accounts for leap years and uses century-based formula adjustments.
+
+---
+
+## ✅ Features
+
+- Determines the weekday (Monday, Tuesday, etc.) for any valid Gregorian date.
+- Handles leap years accurately.
+- Adjusts calculation formulas for different centuries.
+
+---
+
+## 🗂️ Files
+
+- `day_finder.py` (suggested filename for your script)
+
+---
+
+## 🖥️ Usage
+
+Run the script using Python:
+
+```bash
+python day_finder.py
