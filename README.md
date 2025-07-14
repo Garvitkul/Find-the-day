@@ -14,7 +14,7 @@ This Python script determines the **day of the week** for any valid date you pro
 
 ## 🗂️ Files
 
-- `day_finder.py` (suggested filename for your script)
+- `Code.py`
 
 ---
 
@@ -23,4 +23,4 @@ This Python script determines the **day of the week** for any valid date you pro
 Run the script using Python:
 
 ```bash
-python day_finder.py
+python Code.py
